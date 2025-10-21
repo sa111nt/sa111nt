@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi, my name is Tim.</h1>
 <h3 align="center">A student of Computer Science at Poznan University of Technology</h3>
 
 <div align = center>
