@@ -1,6 +1,7 @@
-<h3 align="center">A graduate of Computer Science at Poznan University of Technology</h3>
+смотри вот мой readme на гитхабе нужно изменить что уже закончил университет
+<h3 align="center">A student of Computer Science at Poznan University of Technology</h3>
 <div align = center>
-Completed a Bachelor's degree
+Currently completing a Bachelor's degree
 in Computer Science with a focus on software engineering. Interested in and currently studying Machine Learning and Artificial Intelligence.
 🌱 Exploring the fields of Machine Learning and AI.
 📫 How to reach me **timkotsky@gmail.com**
