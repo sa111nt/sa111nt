@@ -11,7 +11,7 @@ Interested in and currently studying Machine Learning and Artificial Intelligenc
 
 # Languages
 
-English (B2) - Upper-Intermediate;  
+English (C1) - Advanced;  
 Polish (C1) - Advanced;  
 Russian - Native;  
 Belarusian - Native.
