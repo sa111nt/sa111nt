@@ -3,9 +3,9 @@
 <div align="center">
 
 Completed a Bachelor's degree in Computer Science with a focus on software engineering.
-Interested in and currently studying Machine Learning and Artificial Intelligence.
+Interested in and currently studying Machine Learning, Deep Learning and Artificial Intelligence.
 
-🌱 Exploring the fields of Machine Learning and AI.
+🌱 Exploring the fields of AI Engineering.
 
 📫 How to reach me **timkotsky@gmail.com**
 
