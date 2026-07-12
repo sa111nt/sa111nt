@@ -2,7 +2,7 @@
 
 > **Status:** Candidate for MSc in Engineering and Computer Science (AI) at Politecnico di Milano. Open to AI / Software Engineer positions.
 
-My professional focus is bridging the gap between a strong theoretical foundation in Computer Science and applied software engineering. I am actively transitioning from academic research to practical development, focusing on the architecture and implementation of Machine Learning and AI systems into a verifiable codebase.
+With a comprehensive academic background in Computer Science, I am directing my professional focus toward applied software engineering. My core interest lies at the intersection of system architecture and Artificial Intelligence. I am currently focused on hands-on development, transforming a theoretical understanding of Machine Learning into functional software. My approach prioritizes robust design and the practical implementation of AI models into production-ready systems.
 
 <h3> Linguistics </h3>
 
