@@ -1,15 +1,10 @@
-### Computer Science Graduate | Poznan University of Technology
+### Software Engineer
 
-> **Status:** Candidate for MSc in Engineering and Computer Science (AI) at Politecnico di Milano. Open to AI / Software Engineer positions.
+I build software systems with a strong focus on backend architecture and the practical application of Artificial Intelligence. My work combines reliable software engineering with AI-powered applications, with a particular interest in LLM-based systems and intelligent backend solutions.
 
-Directing my professional focus toward applied software engineering. My core interest lies at the intersection of system architecture and Artificial Intelligence. I am currently focused on hands-on development, transforming a theoretical understanding of AI into functional software. My approach prioritizes robust design and the practical implementation of AI models into production-ready systems.
+I am focused on designing maintainable, production-oriented software and exploring how modern AI capabilities can be integrated into real-world applications. 
 
-<h3> Linguistics </h3>
-
-English (C1) - Advanced  
-Polish (C1) - Advanced  
-Russian - Native  
-Belarusian - Native
+I have a broad interest in Artificial Intelligence as a field, including its different approaches, technologies, and areas of application. At the same time, I enjoy exploring software architecture and design as a whole, from individual components and abstractions to the way systems interact and operate across different layers.
 
 ### Connectivity
 
@@ -22,3 +17,7 @@ Belarusian - Native
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/timkotsky)
 
 </div>
+
+
+
+
